@@ -7,13 +7,13 @@ The purpose of this assigment was to clean up the HTML code and add proper seman
 
 ## Screenshot
 
-You can view a screenshot of the webpage here:
+You can view a screenshot of the webpage here: https://github.com/pherpat/module1-challenge/blob/main/assets/module-1-screenshot.jpg
 
 
 ## Deployed Site
 
-The deployed site url:
+The deployed site url: https://pherpat.github.io/module1-challenge/
 
 ## Repository
 
-The source code for the repository: 
+The source code for the repository: https://github.com/pherpat/module1-challenge
